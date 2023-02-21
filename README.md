@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Im BackEnd Developer with knowledge in Node.js, TypeScrypt, SQL and NoSQL databases. But I also have some knowledge in Angular (HTML-CSS-JavScript).<br>
+💻Im BackEnd Developer. Dog lover, book lover and passionate about code.<br>
 
 
 ## 🌐 Socials:
