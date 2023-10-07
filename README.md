@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Im BackEnd Developer. Dog lover, book lover and passionate about code.<br>
+💻Im Full Stack Developer. Dog lover, book lover and passionate about code.<br>
 
 
 ## 🌐 Socials:
